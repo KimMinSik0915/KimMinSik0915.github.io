@@ -1,16 +1,38 @@
 {
   "files": {
-    "main.css": "/static/css/main.f81e0b40.css",
-    "main.js": "/static/js/main.6817fb09.js",
+    "main.css": "/static/css/main.f0fa1535.css",
+    "main.js": "/static/js/main.3cc9411e.js",
     "static/js/453.fbf47647.chunk.js": "/static/js/453.fbf47647.chunk.js",
+    "static/media/action_card_back.png": "/static/media/action_card_back.9c14d85d7177203a9104.png",
+    "static/media/smaug.png": "/static/media/smaug.eea4a32332318ac0f47f.png",
+    "static/media/action_card_01.png": "/static/media/action_card_01.ff7459c30181f2c2fdd0.png",
+    "static/media/action_card_09.png": "/static/media/action_card_09.e6c775031c127bf4169a.png",
+    "static/media/action_card_02.png": "/static/media/action_card_02.544fc08b6509cbe8b864.png",
+    "static/media/action_card_05.png": "/static/media/action_card_05.acef34c12c9c42012c10.png",
+    "static/media/action_card_07.png": "/static/media/action_card_07.4cbc6448655fb444b4bb.png",
+    "static/media/action_card_11.png": "/static/media/action_card_11.7382ad04d677137c5c36.png",
+    "static/media/action_card_04.png": "/static/media/action_card_04.9f64c9892fe54debbb45.png",
+    "static/media/action_card_06.png": "/static/media/action_card_06.b53d3ca88d4e43d6cee1.png",
+    "static/media/action_card_03.png": "/static/media/action_card_03.729e29f06ed640bb59cf.png",
+    "static/media/action_card_10.png": "/static/media/action_card_10.8d53c53be8816faf4e04.png",
+    "static/media/action_card_08.png": "/static/media/action_card_08.f94a5aa09dcae48697c1.png",
+    "static/media/action_card_12.png": "/static/media/action_card_12.0e6a005582cd0d015dbd.png",
+    "static/media/saruman.png": "/static/media/saruman.5342dbb1dfe239de9faa.png",
+    "static/media/tom_bomderial.png": "/static/media/tom_bomderial.8fdbc08563d57586960d.png",
+    "static/media/elrond.png": "/static/media/elrond.d3a8306ecc589b2e2aa5.png",
+    "static/media/sauron.png": "/static/media/sauron.00c613538505d34e5a11.png",
+    "static/media/galadriel.png": "/static/media/galadriel.8ab7e8cad3a0989b9763.png",
+    "static/media/whitch_king.png": "/static/media/whitch_king.e987a27d9bb0da905d61.png",
+    "static/media/gandlf.png": "/static/media/gandlf.ea5a32d89b2f0e9f6edc.png",
     "static/media/imperium_legend.png": "/static/media/imperium_legend.cb97336defd125a15ea4.png",
+    "static/media/Lord_of_Rings_duel_.jpg": "/static/media/Lord_of_Rings_duel_.a9591dc3b1e2ab8d7c51.jpg",
     "index.html": "/index.html",
-    "main.f81e0b40.css.map": "/static/css/main.f81e0b40.css.map",
-    "main.6817fb09.js.map": "/static/js/main.6817fb09.js.map",
+    "main.f0fa1535.css.map": "/static/css/main.f0fa1535.css.map",
+    "main.3cc9411e.js.map": "/static/js/main.3cc9411e.js.map",
     "453.fbf47647.chunk.js.map": "/static/js/453.fbf47647.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f81e0b40.css",
-    "static/js/main.6817fb09.js"
+    "static/css/main.f0fa1535.css",
+    "static/js/main.3cc9411e.js"
   ]
 }
