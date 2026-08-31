@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a2c16cf.css",
-    "main.js": "/static/js/main.ef62bcf7.js",
+    "main.css": "/static/css/main.a15b9a72.css",
+    "main.js": "/static/js/main.5adb8126.js",
     "static/js/453.fbf47647.chunk.js": "/static/js/453.fbf47647.chunk.js",
     "static/media/action_card_back.png": "/static/media/action_card_back.9c14d85d7177203a9104.png",
     "static/media/smaug.png": "/static/media/smaug.eea4a32332318ac0f47f.png",
@@ -27,12 +27,12 @@
     "static/media/imperium_legend.png": "/static/media/imperium_legend.cb97336defd125a15ea4.png",
     "static/media/Lord_of_Rings_duel_.jpg": "/static/media/Lord_of_Rings_duel_.a9591dc3b1e2ab8d7c51.jpg",
     "index.html": "/index.html",
-    "main.1a2c16cf.css.map": "/static/css/main.1a2c16cf.css.map",
-    "main.ef62bcf7.js.map": "/static/js/main.ef62bcf7.js.map",
+    "main.a15b9a72.css.map": "/static/css/main.a15b9a72.css.map",
+    "main.5adb8126.js.map": "/static/js/main.5adb8126.js.map",
     "453.fbf47647.chunk.js.map": "/static/js/453.fbf47647.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a2c16cf.css",
-    "static/js/main.ef62bcf7.js"
+    "static/css/main.a15b9a72.css",
+    "static/js/main.5adb8126.js"
   ]
 }
