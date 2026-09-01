@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.a15b9a72.css",
-    "main.js": "/static/js/main.5adb8126.js",
+    "main.css": "/static/css/main.fcadd7cb.css",
+    "main.js": "/static/js/main.bb3c7433.js",
+    "static/js/264.c6966119.chunk.js": "/static/js/264.c6966119.chunk.js",
+    "static/js/452.b021a793.chunk.js": "/static/js/452.b021a793.chunk.js",
+    "static/js/599.bf00bbf3.chunk.js": "/static/js/599.bf00bbf3.chunk.js",
     "static/js/453.fbf47647.chunk.js": "/static/js/453.fbf47647.chunk.js",
+    "static/js/580.99b2256d.chunk.js": "/static/js/580.99b2256d.chunk.js",
     "static/media/action_card_back.png": "/static/media/action_card_back.9c14d85d7177203a9104.png",
     "static/media/smaug.png": "/static/media/smaug.eea4a32332318ac0f47f.png",
     "static/media/action_card_01.png": "/static/media/action_card_01.ff7459c30181f2c2fdd0.png",
@@ -26,13 +30,23 @@
     "static/media/gandlf.png": "/static/media/gandlf.ea5a32d89b2f0e9f6edc.png",
     "static/media/imperium_legend.png": "/static/media/imperium_legend.cb97336defd125a15ea4.png",
     "static/media/Lord_of_Rings_duel_.jpg": "/static/media/Lord_of_Rings_duel_.a9591dc3b1e2ab8d7c51.jpg",
+    "static/media/d20.svg": "/static/media/d20.9274a5f116c08839bfe78b988a8344e2.svg",
+    "static/media/d12.svg": "/static/media/d12.30570d1f84e2dfc96ed986026f0c611e.svg",
+    "static/media/d10.svg": "/static/media/d10.b1229fd559ccff16e6502eb24eaaf133.svg",
+    "static/media/d8.svg": "/static/media/d8.ca88db76665cd0fab68c6601fd903ecb.svg",
+    "static/media/d4.svg": "/static/media/d4.ad1ed88f97a21ac79f23f96417ec2dcd.svg",
     "index.html": "/index.html",
-    "main.a15b9a72.css.map": "/static/css/main.a15b9a72.css.map",
-    "main.5adb8126.js.map": "/static/js/main.5adb8126.js.map",
-    "453.fbf47647.chunk.js.map": "/static/js/453.fbf47647.chunk.js.map"
+    "static/media/d6.svg": "/static/media/d6.9f27bc281e7cc4dcbb6b8538c9e88314.svg",
+    "main.fcadd7cb.css.map": "/static/css/main.fcadd7cb.css.map",
+    "main.bb3c7433.js.map": "/static/js/main.bb3c7433.js.map",
+    "264.c6966119.chunk.js.map": "/static/js/264.c6966119.chunk.js.map",
+    "452.b021a793.chunk.js.map": "/static/js/452.b021a793.chunk.js.map",
+    "599.bf00bbf3.chunk.js.map": "/static/js/599.bf00bbf3.chunk.js.map",
+    "453.fbf47647.chunk.js.map": "/static/js/453.fbf47647.chunk.js.map",
+    "580.99b2256d.chunk.js.map": "/static/js/580.99b2256d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a15b9a72.css",
-    "static/js/main.5adb8126.js"
+    "static/css/main.fcadd7cb.css",
+    "static/js/main.bb3c7433.js"
   ]
 }
