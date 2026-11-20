@@ -1,1 +1,0 @@
-# KimMinSik0915.github.io
